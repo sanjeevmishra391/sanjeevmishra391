@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 ✔ I’m looking to collaborate with any *Open - Source contribution*<br>
 ✔ I use to write code on [leetcode](https://leetcode.com/sanjeevmishra391/) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SANJEEVMISHRA391&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Sanjeev"></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SANJEEVMISHRA391&count_private=true;show_icons=true" alt="Sanjeev" width="410" /></p>
